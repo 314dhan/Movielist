@@ -1,0 +1,127 @@
+[
+  {
+    "judul": "Inception",
+    "sinopsis": "Inception adalah film fiksi ilmiah yang disutradarai oleh Christopher Nolan. Film ini mengisahkan tentang pencuri yang menggunakan teknologi canggih untuk meretas pikiran orang lain dalam mimpi mereka, dengan tujuan untuk mencuri rahasia dari bawah sadar mereka.",
+    "genre": ["Action", "Adventure", "Sci-Fi"]
+  },
+  {
+    "judul": "The Shawshank Redemption",
+    "sinopsis": "The Shawshank Redemption adalah film drama yang disutradarai oleh Frank Darabont. Film ini mengisahkan tentang seorang bankir yang dijebak karena pembunuhan istri dan kekasihnya, dan kemudian menjalani hukuman di penjara Shawshank, di mana ia membentuk persahabatan dengan seorang narapidana yang berpengaruh.",
+    "genre": ["Drama"]
+  },
+  {
+    "judul": "The Godfather",
+    "sinopsis": "The Godfather adalah film drama kejahatan yang disutradarai oleh Francis Ford Coppola. Film ini mengisahkan tentang keluarga Mafia Corleone yang memerintah kejahatan di Amerika. Cerita utamanya berkisar pada Don Vito Corleone dan putranya, Michael, yang bertujuan untuk melanjutkan bisnis keluarga.",
+    "genre": ["Crime", "Drama"]
+  },
+  {
+    "judul": "The Dark Knight",
+    "sinopsis": "The Dark Knight adalah film superhero yang disutradarai oleh Christopher Nolan. Film ini mengisahkan tentang Batman yang berusaha menghadapi Joker, seorang penjahat mastermind yang mengancam keamanan Gotham City. Sementara itu, Harvey Dent, jaksa kota yang dihormati, berubah menjadi Two-Face setelah tragedi yang mengubah hidupnya.",
+    "genre": ["Action", "Crime", "Drama"]
+  },
+  {
+    "judul": "Schindler's List",
+    "sinopsis": "Schindler's List adalah film sejarah yang disutradarai oleh Steven Spielberg. Film ini mengisahkan tentang Oskar Schindler, seorang pengusaha Jerman yang menyelamatkan lebih dari seribu orang Yahudi dari Holocaust dengan mempekerjakan mereka di pabriknya selama Perang Dunia II.",
+    "genre": ["Biography", "Drama", "History"]
+  },
+  {
+    "judul": "Pulp Fiction",
+    "sinopsis": "Pulp Fiction adalah film kriminal yang disutradarai oleh Quentin Tarantino. Film ini mengisahkan tentang sejumlah cerita yang saling terkait, termasuk sepasang pembunuh bayaran, seorang petinju yang bersikeras menolak untuk menerima uang suap, dan sepasang pencuri berdiskusi tentang kehidupan.",
+    "genre": ["Crime", "Drama"]
+  },
+  {
+    "judul": "Forrest Gump",
+    "sinopsis": "Forrest Gump adalah film drama komedi yang disutradarai oleh Robert Zemeckis. Film ini mengisahkan tentang seorang pria dengan IQ rendah yang secara tidak sengaja terlibat dalam sejumlah peristiwa bersejarah di Amerika, sambil mencoba menemukan cintanya, Jenny.",
+    "genre": ["Drama", "Romance"]
+  },
+  {
+    "judul": "The Matrix",
+    "sinopsis": "The Matrix adalah film fiksi ilmiah yang disutradarai oleh Wachowski bersaudara. Film ini mengisahkan tentang seorang pria bernama Neo yang tersadar bahwa dunia yang ia tinggali sebenarnya hanyalah simulasi komputer yang dikuasai oleh mesin. Dia kemudian bergabung dengan perlawanan untuk melawan kekuatan mesin tersebut.",
+    "genre": ["Action", "Sci-Fi"]
+  },
+  {
+    "judul": "The Lord of the Rings: The Fellowship of the Ring",
+    "sinopsis": "The Lord of the Rings: The Fellowship of the Ring adalah film petualangan fantasi yang disutradarai oleh Peter Jackson. Film ini mengisahkan tentang perjalanan seorang hobbit bernama Frodo Baggins untuk menghancurkan Cincin Kekuasaan di gunung lava, bersama dengan anggota Perhimpunan Cincin.",
+    "genre": ["Action", "Adventure", "Drama", "Fantasy"]
+  },
+  {
+    "judul": "Interstellar",
+    "sinopsis": "Interstellar adalah film fiksi ilmiah yang disutradarai oleh Christopher Nolan. Film ini mengisahkan tentang sekelompok penjelajah ruang angkasa yang melakukan perjalanan melintasi lubang cacing di luar tata surya untuk mencari planet yang dapat dihuni oleh umat manusia, karena Bumi mengalami krisis ekologis yang parah.",
+    "genre": ["Adventure", "Drama", "Sci-Fi"]
+  },
+  {
+    "judul": "The Green Mile",
+    "sinopsis": "The Green Mile adalah film drama fantasi yang disutradarai oleh Frank Darabont. Film ini mengisahkan tentang seorang sipir penjara yang terkesan oleh seorang narapidana besar dan lembut dengan kekuatan gaib.",
+    "genre": ["Crime", "Drama", "Fantasy"]
+  },
+  {
+    "judul": "Forrest Gump",
+    "sinopsis": "Forrest Gump adalah film drama komedi yang disutradarai oleh Robert Zemeckis. Film ini mengisahkan tentang seorang pria dengan IQ rendah yang secara tidak sengaja terlibat dalam sejumlah peristiwa bersejarah di Amerika, sambil mencoba menemukan cintanya, Jenny.",
+    "genre": ["Drama", "Romance"]
+  },
+  {
+    "judul": "The Godfather: Part II",
+    "sinopsis": "The Godfather: Part II adalah film drama kejahatan yang disutradarai oleh Francis Ford Coppola. Film ini adalah sekuel dari The Godfather dan mengisahkan tentang keluarga Mafia Corleone di dua era yang berbeda: pada tahun 1950-an ketika Don Vito Corleone membangun kekayaan dan kekuatan, dan pada tahun 1900-an ketika putranya, Michael, memperluas bisnisnya.",
+    "genre": ["Crime", "Drama"]
+  },
+  {
+    "judul": "The Lord of the Rings: The Two Towers",
+    "sinopsis": "The Lord of the Rings: The Two Towers adalah film petualangan fantasi yang disutradarai oleh Peter Jackson. Film ini adalah sekuel dari The Fellowship of the Ring dan mengisahkan tentang perjalanan Frodo Baggins dan Perhimpunan Cincin saat mereka berusaha menghentikan Sauron dan mencari cincinnya yang hilang.",
+    "genre": ["Action", "Adventure", "Drama", "Fantasy"]
+  },
+  {
+    "judul": "Se7en",
+    "sinopsis": "Se7en adalah film thriller kriminal yang disutradarai oleh David Fincher. Film ini mengisahkan tentang dua detektif yang menyelidiki serangkaian pembunuhan yang terinspirasi oleh Tujuh Dosa Mematikan dalam kitab Suci.",
+    "genre": ["Crime", "Drama", "Mystery"]
+  },
+  {
+    "judul": "Gladiator",
+    "sinopsis": "Gladiator adalah film drama aksi epik yang disutradarai oleh Ridley Scott. Film ini mengisahkan tentang seorang jenderal Romawi yang ditipu dan dikhianati, dan kemudian memulai perjalanan epiknya untuk membalas dendam dan mendapatkan kembali kehormatannya.",
+    "genre": ["Action", "Adventure", "Drama"]
+  },
+  {
+    "judul": "The Silence of the Lambs",
+    "sinopsis": "The Silence of the Lambs adalah film thriller psikologis yang disutradarai oleh Jonathan Demme. Film ini mengisahkan tentang seorang agen FBI yang berusaha menangkap seorang pembunuh berantai dengan bantuan seorang psikopat yang dipenjara, Dr. Hannibal Lecter.",
+    "genre": ["Crime", "Drama", "Thriller"]
+  },
+  {
+    "judul": "Saving Private Ryan",
+    "sinopsis": "Saving Private Ryan adalah film perang epik yang disutradarai oleh Steven Spielberg. Film ini mengisahkan tentang sebuah misi penyelamatan di Perang Dunia II di mana sebuah tim tentara Amerika dikirim untuk mencari dan menyelamatkan prajurit bernama James Ryan yang tertinggal di belakang garis musuh.",
+    "genre": ["Drama", "War"]
+  },
+  {
+    "judul": "The Usual Suspects",
+    "sinopsis": "The Usual Suspects adalah film thriller kriminal yang disutradarai oleh Bryan Singer. Film ini mengisahkan tentang seorang penjahat misterius bernama Keyser Söze yang menjadi pusat perhatian dalam penyelidikan polisi tentang kejadian di pelabuhan Los Angeles.",
+    "genre": ["Crime", "Drama", "Mystery"]
+  },
+  {
+    "judul": "American History X",
+    "sinopsis": "American History X adalah film drama kejahatan yang disutradarai oleh Tony Kaye. Film ini mengisahkan tentang seorang mantan neonazi yang mencoba mengarahkan adiknya yang muda agar tidak mengikuti jejaknya yang penuh kebencian.",
+    "genre": ["Drama"]
+  },
+  {
+    "judul": "The Lion King",
+    "sinopsis": "The Lion King adalah film animasi musikal yang disutradarai oleh Roger Allers dan Rob Minkoff. Film ini mengisahkan tentang Simba, seorang singa muda yang berjuang untuk mendapatkan kembali takhtanya sebagai raja hutan setelah dijatuhkan oleh pamannya, Scar.",
+    "genre": ["Animation", "Adventure", "Drama"]
+  },
+  {
+    "judul": "The Departed",
+    "sinopsis": "The Departed adalah film thriller kriminal yang disutradarai oleh Martin Scorsese. Film ini mengisahkan tentang seorang polisi muda yang menyamar sebagai anggota geng kriminal untuk mengungkap identitas mata-mata yang bekerja di dalam polisi. Sementara itu, geng kriminal juga memiliki mata-mata mereka sendiri di dalam polisi.",
+    "genre": ["Crime", "Drama", "Thriller"]
+  },
+  {
+    "judul": "The Prestige",
+    "sinopsis": "The Prestige adalah film misteri thriller yang disutradarai oleh Christopher Nolan. Film ini mengisahkan tentang dua pesulap yang bersaing untuk menjadi yang terbaik di dunia, dan rivalitas mereka yang semakin memburuk menyebabkan konsekuensi yang tidak terduga.",
+    "genre": ["Drama", "Mystery", "Sci-Fi"]
+  },
+  {
+    "judul": "Fight Club",
+    "sinopsis": "Fight Club adalah film drama psikologis yang disutradarai oleh David Fincher. Film ini mengisahkan tentang seorang pekerja kantor biasa yang bertemu dengan seorang pria karismatik yang memperkenalkannya pada sebuah klub tempat orang-orang bertarung secara rahasia untuk merasakan kehidupan yang lebih intens.",
+    "genre": ["Drama"]
+  },
+  {
+    "judul": "Goodfellas",
+    "sinopsis": "Goodfellas adalah film drama kejahatan yang disutradarai oleh Martin Scorsese. Film ini mengisahkan tentang kehidupan Henry Hill, seorang anggota Mafia yang mengalami naik turun dalam organisasi kejahatan.",
+    "genre": ["Crime", "Drama"]
+  }
+]

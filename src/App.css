@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.movie-list-container {
+  margin: 0 auto;
+  /* Ini akan menengahkan daftar film di dalam container-nya */
+  max-width: 800px;
+  /* Misalnya, mengatur lebar maksimum container */
+}
